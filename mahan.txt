@@ -1,0 +1,3 @@
+name: Mahan Ghobadi
+hobbies: Soccer
+trivia: I spent too long on Collatz Conjecture 
